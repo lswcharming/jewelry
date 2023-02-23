@@ -1,0 +1,7 @@
+#Tue Jul 21 02:56:39 KST 2020
+base.0=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

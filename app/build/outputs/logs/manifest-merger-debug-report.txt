@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\36ba2b1145fe8c321b2af1e825bd4044\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc448503d71b431bac51628e522726bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\df9f456c980ad0ecf48a06ec7248aa16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\44ed24e84f7e1b0797f93ccf135cccab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\00d9f2b5c0b3564de8c21de87f1613e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc45b7201ea3e78c063769bb175513d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\af9caa9afaa3077cf8e82a60413b8c05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\6b11ee1d3566a5afff5f8904efb25b73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\41a4c533819521f7d699f09c83361761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\0afcaa7964eb809e37889036325d76f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\b95f902f01e578fce61e24ef74c91292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\7c41e31440cfe2112be132ec5a0c0118\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d57cb3e6390a4e4bae61f01c35467b60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\93f7731c68dceebdd2303e318a73f1b1\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2e794941b3458e666aac3dbac0fca37f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\1806adad6fde3ca28a19e7dc1fb2e346\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\9c07fc46011fe65d5c4bdaf82496cc0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d9155041a8e1a5f1c8b201a38f6857e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\01595d8461df01ae75d81b3647a8cc8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\28e38ed9f24860875c29a2f231f6f257\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\bc2d9743b8acbd004686a225f407962e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\8acc3a31e8ebb9832bd46f6d73a2dffe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\fd20f82723dfd6d9dd49ff9be23e0d21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\918d93cfef984c8116d30bc5ace3ed53\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:11:5-78
+	android:glEsVersion
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:11:19-51
+	android:required
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:11:52-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:16:5-30:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\93f7731c68dceebdd2303e318a73f1b1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\93f7731c68dceebdd2303e318a73f1b1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:18:9-52
+	android:allowBackup
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:20:9-56
+activity#com.projectI.openglshadowdemo.ShadowsActivity
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:22:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\36ba2b1145fe8c321b2af1e825bd4044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\36ba2b1145fe8c321b2af1e825bd4044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc448503d71b431bac51628e522726bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc448503d71b431bac51628e522726bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\df9f456c980ad0ecf48a06ec7248aa16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\df9f456c980ad0ecf48a06ec7248aa16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\44ed24e84f7e1b0797f93ccf135cccab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\44ed24e84f7e1b0797f93ccf135cccab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\00d9f2b5c0b3564de8c21de87f1613e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\00d9f2b5c0b3564de8c21de87f1613e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc45b7201ea3e78c063769bb175513d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\cc45b7201ea3e78c063769bb175513d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\af9caa9afaa3077cf8e82a60413b8c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\af9caa9afaa3077cf8e82a60413b8c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\6b11ee1d3566a5afff5f8904efb25b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\6b11ee1d3566a5afff5f8904efb25b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\41a4c533819521f7d699f09c83361761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\41a4c533819521f7d699f09c83361761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\0afcaa7964eb809e37889036325d76f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\0afcaa7964eb809e37889036325d76f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\b95f902f01e578fce61e24ef74c91292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\b95f902f01e578fce61e24ef74c91292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\7c41e31440cfe2112be132ec5a0c0118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\7c41e31440cfe2112be132ec5a0c0118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d57cb3e6390a4e4bae61f01c35467b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d57cb3e6390a4e4bae61f01c35467b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2de4bcf4f91460ca9b0562ad7615b0dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\93f7731c68dceebdd2303e318a73f1b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\93f7731c68dceebdd2303e318a73f1b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2e794941b3458e666aac3dbac0fca37f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\2e794941b3458e666aac3dbac0fca37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\1806adad6fde3ca28a19e7dc1fb2e346\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\1806adad6fde3ca28a19e7dc1fb2e346\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\9c07fc46011fe65d5c4bdaf82496cc0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\9c07fc46011fe65d5c4bdaf82496cc0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d9155041a8e1a5f1c8b201a38f6857e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\d9155041a8e1a5f1c8b201a38f6857e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\01595d8461df01ae75d81b3647a8cc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\01595d8461df01ae75d81b3647a8cc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\28e38ed9f24860875c29a2f231f6f257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\28e38ed9f24860875c29a2f231f6f257\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\bc2d9743b8acbd004686a225f407962e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\bc2d9743b8acbd004686a225f407962e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\8acc3a31e8ebb9832bd46f6d73a2dffe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\8acc3a31e8ebb9832bd46f6d73a2dffe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\fd20f82723dfd6d9dd49ff9be23e0d21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\fd20f82723dfd6d9dd49ff9be23e0d21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\918d93cfef984c8116d30bc5ace3ed53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\CHARMING-i7\.gradle\caches\transforms-2\files-2.1\918d93cfef984c8116d30bc5ace3ed53\AndroidManifest.xml:20:5-44
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Source\LG\Jewelry\OpenGLShadowDemo-master_studio_jewelry_20200720_2\app\src\main\AndroidManifest.xml

@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Jul 21 02:56:39 KST 2020
+2.base=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=mount_small3.png
+2.baseType=DIRECTORY
+3.base=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.set=DEX
+1.path=jewelry_bg.png
+4.base=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\merged_assets\\debug\\out
+count=5
+2.path=classes.dex
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=green.png
+1.baseType=DIRECTORY
+0.base=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=D\:\\Source\\LG\\Jewelry\\OpenGLShadowDemo-master_studio_jewelry_20200720_2\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=ASSET
